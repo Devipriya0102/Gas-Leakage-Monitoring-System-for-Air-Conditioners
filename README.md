@@ -42,7 +42,7 @@ household dangers and fatalities.
 
 with sensors to address risks associated with minor gas leaks during sleep.
 
-##EXISTING METHODS
+## EXISTING METHODS
 
 • The existing model lacks gas leak detection in air conditioning systems, posing a 
 
